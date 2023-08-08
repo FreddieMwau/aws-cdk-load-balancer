@@ -10,6 +10,8 @@
     "test": "jest",
     "cdk-synth": "cdk synth",
     "cdk-diff": "cdk diff",
+    "cdk-bootstrap": "cdk bootstrap",
+    "cdk-destroy": "cdk destroy",
     "cdk-deploy": "cdk deploy"
   },
   "devDependencies": {
